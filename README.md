@@ -1,6 +1,6 @@
 # Project 3 - *Parstagram 2*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Parstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **7** hours spent in total
 
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/hoonman/Parstagram_2/blob/master/parstagram2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
